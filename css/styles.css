@@ -95,6 +95,13 @@ body {
     font-size: 1.9rem;
     color: #d9dde6;
     flex-shrink: 0;
+    overflow: hidden;
+}
+.profile-hero .avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 .profile-hero h1 {
     font-family: 'DM Sans', sans-serif;
@@ -175,6 +182,13 @@ body {
     color: #fff;
     font-weight: 700;
     border: 1px solid rgba(255,255,255,.6);
+    overflow: hidden;
+}
+.leader-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 .leader-name  {
     font-size: .82rem;
