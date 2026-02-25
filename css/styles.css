@@ -248,6 +248,10 @@ body {
     border-color: rgba(201,168,76,.35);
     box-shadow: 0 4px 24px rgba(0,0,0,.25);
 }
+#foundationCard,
+#economyCard {
+    border: 0;
+}
 .membership-header {
     padding: 1rem 1.25rem;
     display: flex;
