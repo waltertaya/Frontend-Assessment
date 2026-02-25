@@ -1,12 +1,12 @@
 :root {
-    --dark:      #1a1f2e;
-    --darker:    #141824;
-    --card:      #232b3e;
-    --card-alt:  #1e2535;
+    --dark:      #3f4247;
+    --darker:    #f3f4f8;
+    --card:      #3f4247;
+    --card-alt:  #4b4f56;
     --gold:      #c9a84c;
     --gold-lt:   #e8c76a;
-    --muted:     #8a94a8;
-    --light:     #dce3ef;
+    --muted:     #d1d6df;
+    --light:     #f2f5fb;
     --accent:    #a8c7f0;
     --border:    rgba(255,255,255,.07);
 }
@@ -17,7 +17,7 @@ body {
     margin: 0;
     background: var(--darker);
     font-family: 'DM Sans', sans-serif;
-    color: var(--light);
+    color: #f3f5fa;
     min-height: 100vh;
 }
 
