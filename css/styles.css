@@ -213,6 +213,7 @@ body {
 }
 .recommend-card h5 { color: var(--gold); font-weight: 700; font-size: 1rem; margin-bottom: .45rem; }
 .recommend-card p  { color: var(--muted); font-size: .87rem; line-height: 1.75; margin: 0; }
+.recommend-card p span { color: var(--gold); font-weight: 700; }
 
 /* ═══════════════════════════
     MEMBERSHIP CARDS
